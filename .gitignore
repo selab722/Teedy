@@ -8,6 +8,7 @@
 /out
 /.idea
 /.project
+/data
 *.iml
 node_modules
 import_test
